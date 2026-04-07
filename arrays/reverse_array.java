@@ -23,6 +23,7 @@ public class reverse_array {
         rev_arr(num);
         for(int i=0; i<num.length; i++){
             System.out.print(num[i] + " ");
+             System.out.print(num[i] + " Hello");
         }
 
         
